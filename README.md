@@ -1,4 +1,5 @@
-WARNING: program ini dibuat oleh ai 100%, jadi gunakan dengan hati hati, dan selalu berikan pendapat kamu di komentar
+WARNING: program ini dibuat oleh ai 100%, jadi gunakan dengan hati hati, saya sepenuhnya tidak bertanggung jawab atas hal hal yang tidak
+diinginkan (kerugian) yang terjadi pada anda. menggunakan program ini berarti telah menyetujui segala resiko yang mungkin saja bisa terjadi dan selalu berikan pendapat kamu di komentar
 
 # Binance Market Viewer 📊🚀
 
